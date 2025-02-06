@@ -1,0 +1,16 @@
+database:
+  host: "localhost"
+  port: 5432
+  database: "minecraft"
+  username: "postgres"
+  password: "sua_senha"
+groups:
+  membro:
+    max_protections: 2
+    max_blocks: 2000
+  VIP:
+    max_protections: 5
+    max_blocks: 5000
+  MegaVip:
+    max_protections: 10
+    max_blocks: 10000

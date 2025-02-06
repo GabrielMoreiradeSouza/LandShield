@@ -1,0 +1,9 @@
+name: LandShield
+version: '1.0-SNAPSHOT'
+main: com.gabrielmoreira.LandShield.landShield.LandShield
+api-version: '1.21'
+commands:
+  removerclaim:
+    description: Remove sua proteção existente.
+    usage: /removerclaim
+
